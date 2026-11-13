@@ -1,0 +1,6 @@
+{
+  "name": "Pequi Ouro do Cerrado",
+  "description": "Venda direta de Pequi Ouro do Cerrado — Comercial, Gigante e Super Gigante nas versões In Natura, Polpa e em Conserva.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
